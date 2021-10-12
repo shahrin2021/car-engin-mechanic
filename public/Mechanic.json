@@ -1,0 +1,26 @@
+[
+    {
+       "name":"Bodendonati vanki",
+       "MITid":124,
+       "exparts":"Engin expart",
+       "img":"https://i.ibb.co/bvfYBNT/mechanic-4.jpg"
+    },
+    {
+       "name":"Valkani volkan",
+       "MITid":125,
+       "exparts":"Engin expart",
+       "img":"https://i.ibb.co/ZfppPR2/mechanic-3.jpg"
+    },
+    {
+       "name":"pabanian kodabi",
+       "MITid":126,
+       "exparts":"Engin expart",
+       "img":"https://i.ibb.co/xCqpTVr/mechanic-2.jpg"
+    },
+    {
+       "name":"Gsbriofa benhodi",
+       "MITid":127,
+       "exparts":"Engin expart",
+       "img":"https://i.ibb.co/VwC08T8/mechanic-1.jpg"
+    }
+ ]
