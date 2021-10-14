@@ -1,0 +1,17 @@
+.list_items{
+    list-style: none;
+
+}
+
+.list_items li{
+    font-size: 18px;
+}
+
+.contact-footer{
+
+}
+
+.footer-area{
+    padding: 50px 0;
+    background-color: darkslategrey;
+}

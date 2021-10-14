@@ -1,0 +1,17 @@
+.profile-img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.img-area{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    border: 3px solid darkorange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+
+}

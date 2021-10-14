@@ -1,10 +1,11 @@
 import Button from '@restart/ui/esm/Button';
 import React from 'react';
 import { Card, Col, Container, Row } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import './Service.css'
 
 const Service = (props) => {
-    const {name, img , price, discription} =props.service;
+    const {name, img , price,id, discription} =props.service;
     return (
         
 
@@ -17,7 +18,10 @@ const Service = (props) => {
     <Card.Text>
       {discription}
     </Card.Text>
-    <Button variant="primary">Go somewhere</Button>
+    <Link to={`/booking/${id}`}>
+    
+    <Button variant="primary">Book Repering</Button>
+    </Link>
   </Card.Body>
 </Card>
     
